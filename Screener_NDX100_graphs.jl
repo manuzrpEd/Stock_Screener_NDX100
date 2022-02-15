@@ -1,6 +1,3 @@
-# #run after 1am
-# # https://techytok.com/lesson-telegram/
-# cd("C:/Users/manuz/Desktop/Adm/Trading/Julia")
 using CSV
 using HTTP, JSON, DataFrames
 # using PyPlot
